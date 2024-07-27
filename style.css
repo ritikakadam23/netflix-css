@@ -694,9 +694,9 @@ section {
         position: absolute;
         object-fit: contain;
         width: 80%;
-        height: 60%;
-        margin-top: 80px;
-        margin-bottom: 10px;
+        height: 90%;
+        /* margin-top: 100px; */
+        /* margin-bottom: 10px; */
         margin-left: 60px;
 
 
@@ -829,11 +829,11 @@ section {
         position: absolute;
         /* width: 370px; */
         object-fit: contain;
-        height: 40%;
+        /* height: 40%; */
         width: 60%;
-        margin-top: 70px;
-        margin-left: 130px;
-        margin-top: 50px;
+        margin-top: 30px;
+        margin-left: 120px;
+        /* margin-top: 50px; */
 
     }
 
@@ -1164,6 +1164,7 @@ section {
         top: 3px;
         bottom: 0;
         right: 0;
+        display: none;
     }
 
     .leftside {
@@ -1200,11 +1201,11 @@ section {
     .video {
         position: absolute;
         object-fit: contain;
-        width: 72%;
-        height: 53%;
-        margin-top: 60px;
-        margin-bottom: 10px;
-        margin-left: 50px;
+        width: 80%;
+        height: 90%;
+        /* margin-top: 100px; */
+        /* margin-bottom: 10px; */
+        margin-left: 20px;
 
 
     }
@@ -1334,11 +1335,13 @@ section {
 
     .video2 {
         position: absolute;
+        /* width: 370px; */
         object-fit: contain;
         /* height: 40%; */
         width: 60%;
-        margin-left: 80px;
-        margin-top: 40px;
+        margin-top: 25px;
+        margin-left: 55px;
+        /* margin-top: 50px; */
 
     }
 
@@ -1388,7 +1391,7 @@ section {
 
     .kids-img{
         /* border: 2px solid green; */
-        width: 50%;
+        width: 60%;
         
     }
 
